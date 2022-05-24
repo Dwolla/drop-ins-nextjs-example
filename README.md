@@ -2,7 +2,7 @@
 
 This is a sample Next.js app that demonstrates how to use Dwolla's Drop-in
 components. Follow along with the
-[video tutorial](https://www.youtube.com/playlist?list=PL3-BGC4YvRrWMxOboOF342zyKRqTaTFe1).
+[video tutorial](https://www.youtube.com/watch?v=jngN0Y6jidI).
 
 ## Getting Started
 
